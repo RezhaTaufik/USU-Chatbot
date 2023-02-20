@@ -1,0 +1,50 @@
+{
+  "id": "ef3bad55-b633-4a22-975a-71c5f247f3aa",
+  "name": "SNMPTN",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b270fd5e-d014-4a16-8209-a6f874cc7a35",
+          "name": "jalur",
+          "required": false,
+          "dataType": "@Jalur",
+          "value": "$jalur",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "$jalur USU\n$jalur USU merupakan salah satu jalur seleksi yang dapat digunakan untuk masuk ke Universitas Sumatera Utara. Jalur SNMPTN ini menggunakan seleksi Nilai Raport. Kelulusan tidak hanya dipengaruhi oleh nilai raport saja, melainkan ada indikator lain seperti Indeks Sekolah, prestasi lainnya. \n\nDaya Tampung $jalur USU\nLTMPT telah memberikan informasi daya tampung untuk jalur SNMPTN tahun ini, dan Kamu juga dapat mengetahui berapa banya kuota yang disediakan oleh USU untuk masing-masing program studi yang ada di USU. Total daya tampung USU tahun ini adalah sebanyak 2.085.\n\nPeminat $jalur USU\nPeminat $jalur merupakan data terkait berapa banyak total peserta yang menginginkan untuk masuk di Prodi (Jurusan) yang ada di PTN tersebut. Begitupun untuk USU karena merupakan PTN jadi, memiliki persaingan yang tinggi untuk bisa masuk disini. Secara keseluruhan untuk total peminat SNMPTN USU tahun ini adalah sebanyak 34.373 peserta."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

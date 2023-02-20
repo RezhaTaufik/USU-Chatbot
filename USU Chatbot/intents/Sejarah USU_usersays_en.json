@@ -1,0 +1,75 @@
+[
+  {
+    "id": "ac44b80a-3803-48d0-93fa-68716ad2f86c",
+    "data": [
+      {
+        "text": "History ",
+        "userDefined": false
+      },
+      {
+        "text": "USU",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e481fa51-5f87-4156-bacf-7c0b9a61bebd",
+    "data": [
+      {
+        "text": "Sejarah ",
+        "userDefined": false
+      },
+      {
+        "text": "USU",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b9035c5b-ac45-47ff-ad12-4db7547b1ce6",
+    "data": [
+      {
+        "text": "Asal Usul",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c96443df-0526-45e9-bc1f-30658643a67a",
+    "data": [
+      {
+        "text": "History",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6568c9c1-704f-4995-af6b-cae3a3f12e53",
+    "data": [
+      {
+        "text": "Sejarah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

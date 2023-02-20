@@ -1,0 +1,35 @@
+{
+  "id": "4ba5b11d-5714-4f0d-bc5e-4755fbb61eca",
+  "name": "Start_Telegram",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Selamat Datang di ChatBot USU!\nChatBot ini akan menjawab pertanyaan kalian seputar kampus Universitas Sumatera Utara!\n\nApabila bingung untuk mulai dari mana, silahkan coba beberapa inputan berikut :\n- Mulai\n- Selamat Pagi/Siang/Malam\n- Halo, Hai\n- Moto\n- Didirikan\n- Rektor USU\n- Sejarah USU\n- Fasilkom TI\n- Fakultas lainnya (Dalam singkatan)\n- Jalur Masuk\n- SNMPTN\n- SBMPTN\n- Ujian Mandiri\n- Jalur Vokasi\n- Daya Tampung \n- Kuota\n\nChatBot ini dibuat juga untuk menyelesaikan tugas besar mata kuliah Natural Language Processing (NLP) dengan Dosen pengampu : Dr. Amalia S.T., M.T.\n\nTim ChatBot USU terdiri dari :\n- TM Rezha Taufiqurrahman (201401019)\n- Ariel Matius Surbakti (201401038)\n- Avin Chaili Salim (201401040)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

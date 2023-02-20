@@ -1,0 +1,28 @@
+[
+  {
+    "id": "50f7fc54-8ed1-40cb-9c52-5ef5f4d14ead",
+    "data": [
+      {
+        "text": "Mulai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c815e889-020a-4000-90c4-db18b3372fcb",
+    "data": [
+      {
+        "text": "/start",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

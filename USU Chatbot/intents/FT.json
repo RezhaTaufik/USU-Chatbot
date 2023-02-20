@@ -1,0 +1,50 @@
+{
+  "id": "515091fd-92cf-4fca-852a-d37569e4bcc0",
+  "name": "FT",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3baef6b2-4136-40c4-8104-cb7d863507b9",
+          "name": "faculty",
+          "required": false,
+          "dataType": "@Faculty",
+          "value": "$faculty",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "$faculty adalah singkatan dari Fakultas Teknik.\nPada tanggal 1 September 1959 dijadikan awal berdirinya $faculty USU setelah keluarnya Surat Keputusan Menteri Muda Pendidikan, Pengajaran dan Kabudayaan Republik Indonesia No. 83303/S tertanggal 26 Agustus 1959 tentang persiapan berdirinya Fakultas Teknik di Medan yang bernaung di bawah panji-panji Universitas Sumatera Utara terhitung mulai 1 September 1959 sebagai fakultas yang ke-4."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

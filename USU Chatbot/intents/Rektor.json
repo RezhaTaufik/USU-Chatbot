@@ -1,0 +1,35 @@
+{
+  "id": "f8c87070-c9dd-4174-ace9-17f48873032c",
+  "name": "Rektor",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Dr. Muryanto Amin, S.Sos., M.Si (lahir 30 September 1974) adalah seorang dosen ilmu politik di Universitas Sumatera Utara (USU). Ia juga merupakan Rektor ke-16 USU yang dilantik pada tanggal 28 Januari 2021 di Kementerian Pendidikan dan Kebudayaan Republik Indonesia periode 2021-2026. Pak Muryanto pernah menduduki jabatan sebagai Dekan FISIP USU pada periode 2016-2021 disaat masa kepemimpinan Rektor sebelumnya. Ia merupakan anak sulung dari empat bersaudara."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

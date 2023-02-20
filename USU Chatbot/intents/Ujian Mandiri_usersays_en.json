@@ -1,0 +1,30 @@
+[
+  {
+    "id": "bc104ec3-1e64-4d4d-80cb-b835c37ae50c",
+    "data": [
+      {
+        "text": "Seleksi Mandiri",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1d37758e-c12a-4056-83eb-6d6174f3e09d",
+    "data": [
+      {
+        "text": "Ujian Mandiri",
+        "meta": "@Jalur",
+        "alias": "jalur",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

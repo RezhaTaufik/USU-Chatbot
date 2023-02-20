@@ -1,0 +1,17 @@
+[
+  {
+    "id": "a435b19f-28cf-4e6b-b91d-b2f82f7ea7fc",
+    "data": [
+      {
+        "text": "FMIPA",
+        "meta": "@Faculty",
+        "alias": "faculty",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  }
+]

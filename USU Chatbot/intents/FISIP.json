@@ -1,0 +1,50 @@
+{
+  "id": "24f27f56-cb76-47a3-a34e-480ddf1ca200",
+  "name": "FISIP",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8c50bfaf-6689-4312-831b-732f87ad4415",
+          "name": "faculty",
+          "required": false,
+          "dataType": "@Faculty",
+          "value": "$faculty",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "$faculty adalah singkatan dari Fakultas Ilmu Sosial dan Ilmu Politik.\n$faculty USU berdiri pada 1980 dan merupakan fakultas yang ke-9 (sembilan) di Universitas Sumatera Utara (USU). $faculty USU pada awal berdiri, hanya memiliki dua program studi (prodi)/jurusan, yakni Ilmu Komunikasi dan Ilmu Administrasi Negara. Saat ini, setelah 40 tahun, FISIP USU memiliki 13 program studi yang terdiri atas 1 prodi D3 (Perpajakan), 7 prodi S1 (Sosiologi, Kesejahteraan Sosial, Administrasi Publik, Komunikasi, Antropologi Sosial, Ilmu Politik, dan Administrasi Bisnis), serta 5 program pasca sarjana (Magister Studi Pembangungan, Magister Ilmu Komunikasi, Magister Ilmu Sosiologi, Magister Ilmu Politik, dan Program Doktor Studi Pembangunan)."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

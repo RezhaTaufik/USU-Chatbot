@@ -1,0 +1,32 @@
+[
+  {
+    "id": "3c38375f-588a-4a32-bcc5-58ee1cbdd3a0",
+    "data": [
+      {
+        "text": "Fasilkom-TI",
+        "meta": "@Faculty",
+        "alias": "faculty",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d10e9656-5ac1-4900-8cfb-e790a4c80486",
+    "data": [
+      {
+        "text": "Fasilkom TI",
+        "meta": "@Faculty",
+        "alias": "faculty",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

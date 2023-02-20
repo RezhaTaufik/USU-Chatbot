@@ -1,0 +1,58 @@
+[
+  {
+    "id": "e0cae6cb-4809-4182-b7f8-d441ae54c259",
+    "data": [
+      {
+        "text": "Keketatan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "81f6b598-81e3-43e6-83ff-a03c6d393063",
+    "data": [
+      {
+        "text": "Kuota",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4e4ddca6-77fd-4fe1-9217-9b1afb85cb9a",
+    "data": [
+      {
+        "text": "Daya Tampung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2523b2ae-743a-4267-bb28-57c3ef43f092",
+    "data": [
+      {
+        "text": "Daya Tampung ",
+        "userDefined": false
+      },
+      {
+        "text": "USU",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

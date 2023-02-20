@@ -1,0 +1,50 @@
+{
+  "id": "246b431d-3759-4e16-b908-64396758cf08",
+  "name": "FEB",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a8b7562f-8ecc-4489-9edc-624ea6a6d9a9",
+          "name": "faculty",
+          "required": false,
+          "dataType": "@Faculty",
+          "value": "$faculty",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "$faculty Adalah singkatan dari Fakultas Ekonomi dan Bisnis. $faculty adalah salah satu fakultas yang populer di ranah SOSHUM. $faculty memiliki beberapa jurusan seperti Manajemen, Ekonomi Pembangunan, Administrasi Bisnis dan masih banyak lagi"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

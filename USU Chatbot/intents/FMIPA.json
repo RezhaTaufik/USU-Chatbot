@@ -1,0 +1,50 @@
+{
+  "id": "44c4ef04-1fbb-4c4e-8155-15a71033ccec",
+  "name": "FMIPA",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "168df7b7-d436-431e-a627-42a80005735e",
+          "name": "faculty",
+          "required": false,
+          "dataType": "@Faculty",
+          "value": "$faculty",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "$faculty adalah singkatan dari Fakultas Matematika dan Ilmu Pengetahuan Alam.\n$faculty USU merupakan salah satu fakultas tertua di USU dan pelopor banyak program studi.\nBanyak program studi $faculty USU yang telah mandiri dan berhasil menjadi fakultas yang independen."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

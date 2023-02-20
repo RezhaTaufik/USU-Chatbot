@@ -1,0 +1,50 @@
+{
+  "id": "da6993d5-f88b-4517-bf09-ffa801818e83",
+  "name": "FK",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "dcd42bb8-e46b-4708-bf90-0e8af815d4d6",
+          "name": "faculty",
+          "required": false,
+          "dataType": "@Faculty",
+          "value": "$faculty",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "$faculty adalah singkatan dari Fakultas Kedokteran. $faculty  adalah salah satu fakultas yang paling terkenal yang dimiliki USU. Fakultas Kedokteran USU juga meraih banyak award mulai dari skala nasional bahkan hingga internasional"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

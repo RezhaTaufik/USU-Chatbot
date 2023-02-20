@@ -1,0 +1,50 @@
+{
+  "id": "3650d6e4-f55a-4404-9703-f999c1bf520e",
+  "name": "SMM PTN Barat",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2be16934-fbbe-41e7-9174-455515836c2a",
+          "name": "jalur",
+          "required": false,
+          "dataType": "@Jalur",
+          "value": "$jalur",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Penyelenggaraan penerimaan mahasiswa baru bagi Perguruan Tinggi Negeri (PTN) diatur Peraturan Menteri Pendidikan dan Kebudayaan Nomor 6 Tahun 2020. Dalam Pasal 3 ayat 1 peraturan tersebut disebutkan bahwa penerimaan mahasiswa baru program sarjana (S1) pada PTN selain dilakukan melalui jalur SNMPTN dan SBMPTN, dapat juga dilakukan melalui jalur lainnya yang diselenggarakan oleh masing-masing Perguruan Tinggi. Oleh karena itu, para Rektor PTN yang tergabung dalam BKS PTN Indonesia Wilayah Barat (BKS PTN-BARAT) bersepakat untuk menyelenggarakan Seleksi Masuk Perguruan Tinggi jalur mandiri secara bersama yang dinamakan SMM PTN-Barat (SMM PTN-BARAT).\n\nSeleksi calon mahasiswa jalur mandiri yang dilakukan oleh beberapa PTN Indonesia Wilayah Barat telah berjalan baik karena penyelenggaraan dilakukan secara bersama, efisien, dan tidak bersifat sangat lokal serta memiliki opsi untuk memilih program studi pada perguruan tinggi lain yang tergabung dalam BKS PTN Indonesia Wilayah Barat. Melalui program SMM PTN-BARAT 2022 ini, para peserta memiliki opsi untuk memilih maksimum 2 (dua) program studi, termasuk pada perguruan tinggi lain yang menjadi peserta SMM PTN-BARAT 2022."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

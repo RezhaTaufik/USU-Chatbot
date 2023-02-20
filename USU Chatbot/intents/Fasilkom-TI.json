@@ -1,0 +1,50 @@
+{
+  "id": "a3a51651-c55b-449a-b709-c35a8d9d22f8",
+  "name": "Fasilkom-TI",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "cc8d3ae3-42ed-4481-b367-98c59bc61ca9",
+          "name": "faculty",
+          "required": false,
+          "dataType": "@Faculty",
+          "value": "$faculty",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "$faculty adalah singkatan dari Fakultas Ilmu Komputer dan Teknologi Informasi.\n$faculty ini memiliki beberapa program studi mulai dari S1 hingga S3.\nBeberapa program studinya antara lain seperti Ilmu Komputer, Teknologi Informasi, Teknik Informatika dan lainnya"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

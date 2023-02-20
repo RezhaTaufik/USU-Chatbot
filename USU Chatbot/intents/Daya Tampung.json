@@ -1,0 +1,35 @@
+{
+  "id": "175a205e-c69b-437f-9ec1-5dd825c31cf3",
+  "name": "Daya Tampung",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Untuk Melihat Daya Tampung USU, Silahkan ikuti / klik Link berikut untuk data lebih lengkap :\n\nhttps://kampusaja.com/daya-tampung-sbmptn-usu/"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

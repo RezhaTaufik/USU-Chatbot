@@ -1,0 +1,50 @@
+{
+  "id": "184ee07e-b3f7-4687-bee2-3dffedddb5b9",
+  "name": "Farmasi",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "634b4e65-bf68-4702-b24e-54b355613366",
+          "name": "faculty",
+          "required": false,
+          "dataType": "@Faculty",
+          "value": "$faculty",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "$faculty USU merupakan satu-satunya institusi pendidikan negeri bidang farmasi di Provinsi Sumatera Utara dengan 5 program studi yang terdiri dari Diploma III Analis Farmasi dan Makanan (D-III Anafarma), Sarjana $faculty (PSSF), Pendidikan Profesi Pendidikan Apoteker (PSPA), Magister Ilmu $faculty (PSMIF) dan Doktor Ilmu $faculty (PSDIF). Kelima program studi tersebut telah terakreditasi oleh Lembaga Akreditasi Mandiri Pendidikan Tinggi Kesehatan (LAM-PTKes). FF USU juga didukung oleh dosen dan tenaga kependidikan yang mumpuni dan berkompeten dibidangnya serta fasilitas sarana dan prasarana yang tersedia dalam jumlah dan kualitas yang sangat memadai juga didukung dengan Laboratorium dan peralatan yang canggih."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,50 @@
+{
+  "id": "20b422d8-e588-42f7-9cfd-6516fe05417c",
+  "name": "Kehutanan",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "90708f7f-72aa-4ee9-a920-f5142de0efa1",
+          "name": "faculty",
+          "required": false,
+          "dataType": "@Faculty",
+          "value": "$faculty",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Fakultas $faculty memiliki satu program studi yaitu Program Studi (PS) Kehutanan. PS Kehutanan terdiri atas 3 minat berdasarkan laboratorium yaitu Manajemen Hutan (MNH), Budidaya Hutan (BDH), dan Teknologi Hasil Hutan (THH). Fakultas $faculty diperkuat dengan tenaga pendidik (Dosen) berjumlah 35 orang yang terdiri atas 23 orang Doktor dan 12 orang Master. Dari keduabelas orang master ini kesemuanya sedang menempuh pendidikan Doktor. Desain Fakultas Kehutanan USU tahun 2016-2020 mengacu pada kerangka umum pencapaian RJP USU 2015-2039."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

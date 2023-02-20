@@ -1,0 +1,30 @@
+[
+  {
+    "id": "c0a4c710-6722-4226-93d3-0861d2cd136a",
+    "data": [
+      {
+        "text": "SBM",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "118e18bd-30c7-46a2-b1c8-e8b0a538ca16",
+    "data": [
+      {
+        "text": "SBMPTN",
+        "meta": "@Jalur",
+        "alias": "jalur",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

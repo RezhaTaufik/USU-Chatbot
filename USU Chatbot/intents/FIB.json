@@ -1,0 +1,50 @@
+{
+  "id": "83a93f54-e361-487a-8de2-b8eb82235115",
+  "name": "FIB",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c5f56bf0-a95d-44ba-b7ae-1cedb07612d6",
+          "name": "faculty",
+          "required": false,
+          "dataType": "@Faculty",
+          "value": "$faculty",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "$faculty adalah singkatan dari Fakultas Ilmu Budaya\n$faculty Universitas Sumatera Utara (USU) dahulu dikenal dengan nama Fakultas Sastra. Berdiri pada tahun 1965. Fakultas Sastra selanjutnya berubah nama menjadi Fakultas Ilmu Budaya pada tanggal 5 april tahun 2011. Sebagaimana visi USU adalah menjadi perguruan tinggi negeri yang memiliki keunggulan akademik sebagai barometer kemajuan ilmu pengetahuan yang mampu bersaing dalam tataran dunia global, maka $faculty memiliki visi pada tahun 2026, Fakultas Ilmu Budaya USU menjadi institusi pendidikan, penelitian, dan pengabdian kepada masyarakat dalam bidang kebudayaan yang unggul, terkemuka dan bertaraf internasional yang bercirikan keunggulan lokal."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,50 @@
+{
+  "id": "1fb954f4-6eca-464b-907e-9e54a29106d3",
+  "name": "Ujian Mandiri",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "76b34fc3-265a-4ae2-9d79-bd873226eb89",
+          "name": "jalur",
+          "required": false,
+          "dataType": "@Jalur",
+          "value": "$jalur",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Seleksi Mandiri atau Ujian Mandiri adalah sistem penerimaan mahasiswa baru di perguruan tinggi negeri di Indonesia secara mandiri. Seleksi mandiri dilakukan setelah pengumuman hasil jalur SBMPTN.\n\nSeleksi mandiri yang dilaksanakan oleh masing-masing PTN harus sudah selesai paling lambat pada akhir bulan Juli tahun berjalan, secara mandiri, dengan persyaratan dan mekanisme yang disesuaikan dengan ketentuan masing-masing perguruan tinggi.\n\nDalam proses seleksi mandiri, beberapa perguruan tinggi dapat menggunakan tes khusus, menggunakan nilai UTBK, nilai rapor, serta prestasi baik akademik maupun non-akademik sebagai poin tambahan.\n\nAdapun kuota dari seleksi ini ditetapkan paling banyak 30% dari daya tamping program studi di perguruan tinggi tersebut. Jumlah kuota dapat bertambah dari pengalihan jumlah kuota SBMPTN apabila tidak terpenuhi, dengan jumlah maksimal sebanyak 10%.\n\nBiaya untuk mengikuti ujian mandiri lebih besar dibandingkan pendaftaran SBMPTN. Selain itu, biaya pendidikan jalur seleksi mandiri mencakup UKT dan uang pangkal."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

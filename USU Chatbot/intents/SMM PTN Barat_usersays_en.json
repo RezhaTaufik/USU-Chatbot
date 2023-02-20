@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1bd1ea06-0840-4230-abc2-ab9f363865d4",
+    "data": [
+      {
+        "text": "SMM Barat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d58b1b5b-5634-4436-8904-970b5e453ce7",
+    "data": [
+      {
+        "text": "SMM PTN Barat",
+        "meta": "@Jalur",
+        "alias": "jalur",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

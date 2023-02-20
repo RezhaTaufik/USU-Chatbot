@@ -1,0 +1,17 @@
+[
+  {
+    "id": "efa22d73-3bb9-4102-9ed2-468486e7639c",
+    "data": [
+      {
+        "text": "SNMPTN",
+        "meta": "@Jalur",
+        "alias": "jalur",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  }
+]

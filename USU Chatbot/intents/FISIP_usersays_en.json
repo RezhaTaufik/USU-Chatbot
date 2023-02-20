@@ -1,0 +1,17 @@
+[
+  {
+    "id": "9e2cee2c-e0d2-4e16-b995-2c1100325c06",
+    "data": [
+      {
+        "text": "FISIP",
+        "meta": "@Faculty",
+        "alias": "faculty",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ccfa73a3-b994-4012-aab6-e60bc8fda3b4",
+    "data": [
+      {
+        "text": "Moto ",
+        "userDefined": false
+      },
+      {
+        "text": "USU",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9463c39f-5dfa-43c9-8a38-9638a6671212",
+    "data": [
+      {
+        "text": "Moto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

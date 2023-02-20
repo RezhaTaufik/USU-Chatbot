@@ -1,0 +1,9 @@
+{
+  "id": "b1cc5e54-1a70-4c41-a89d-a76daa4b7d3b",
+  "name": "Jalur",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

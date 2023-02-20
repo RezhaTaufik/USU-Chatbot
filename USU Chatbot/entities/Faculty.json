@@ -1,0 +1,9 @@
+{
+  "id": "91396d73-8f3d-4cf1-855c-6ad5f51089eb",
+  "name": "Faculty",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

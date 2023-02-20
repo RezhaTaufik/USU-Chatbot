@@ -1,0 +1,55 @@
+{
+  "id": "5aafbc16-7e49-4dc0-93a2-68a53f627f8d",
+  "name": "Greeting",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "693005f8-8c33-4e7f-8456-97cc69eb0e89",
+          "name": "hari_dan_waktu",
+          "required": false,
+          "dataType": "@Hari_dan_Waktu",
+          "value": "$hari_dan_waktu",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Halo Teman, $hari_dan_waktu!",
+            "Hai, $hari_dan_waktu",
+            "$hari_dan_waktu, Ada yang bisa kami bantu?",
+            "Selamat Datang di ChatBot ini!",
+            "Halo, Senang bertemu denganmu!",
+            "Hai, Semoga kabarmu baik!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

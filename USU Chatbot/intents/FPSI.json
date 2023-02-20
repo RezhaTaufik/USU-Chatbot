@@ -1,0 +1,50 @@
+{
+  "id": "130e8b76-5aba-42f8-adb4-0b10e651e476",
+  "name": "FPSI",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ec9a14ce-2f13-434f-a9b8-4c6c420b501e",
+          "name": "faculty",
+          "required": false,
+          "dataType": "@Faculty",
+          "value": "$faculty",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "$faculty adalah singkatan dari Fakultas Psikologi.\nBerkompeten dalam melahirkan lulusan yang berkompeten dalam ilmu perilaku manusia, Fakultas Psikologi Universitas Sumatera Utara merupakan salah satu $faculty terkemuka di Indonesia. Dengan kurikulum yang menyeluruh tentang aspek-aspek dari perilaku manusia dan diajarkan oleh tenaga pengajar yang berkualitas serta berpengalaman, $faculty USU memberikan mahasiswa kemampuan dalam mengembangkan pengetahuan dan keterampilan guna mendukung kariernya di masa depan. Mahasiswa juga mendapatkan kesempatan dalam melakukan penelitian dan terlibat dalam kegiatan klinis di bidang psikologi, menjadikan $faculty USU institusi yang berkualitas dalam pengembangan ilmu psikologi dan terapannya"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,50 @@
+{
+  "id": "b4731f66-7447-4257-991f-e8b2c78377b8",
+  "name": "Keperawatan",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2200be10-6b7c-4239-b4d6-66a0b2c38aaa",
+          "name": "faculty",
+          "required": false,
+          "dataType": "@Faculty",
+          "value": "$faculty",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Fokus dalam pengembangan ilmu keperawatan untuk menghasilkan lulusan yang mampu memberikan perawatan promotif, preventif dan rehabilitatif, Fakultas Keperawatan Universitas Sumatera Utara menjadi salah satu fakultas terbaik di Indonesia untuk bidang ilmu keperawatan. Melalui pendidikan dengan kurikulum yang komprehensif dan diajarkan oleh tenaga pengajar berpengalaman, memberikan mahasiswa pemahaman akan ilmu keperawatan dasar yang didukung dengan praktik nyata. Ketersediaan sarana prasarana yang berkualitas mendorong mahasiswa untuk melaksanakan kegiatan belajar mengajar untuk menghasilkan rangkaian penelitian yang bermanfaat untuk pengembangan ilmu keperawatan"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

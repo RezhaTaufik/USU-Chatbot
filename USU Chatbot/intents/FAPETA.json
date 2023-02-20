@@ -1,0 +1,50 @@
+{
+  "id": "d2708411-0747-4547-9b9b-f8993ae82ec9",
+  "name": "FAPETA",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6f4d6a9c-8867-49fa-b566-7fe6df7d5c9c",
+          "name": "faculty",
+          "required": false,
+          "dataType": "@Faculty",
+          "value": "$faculty",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "$faculty adalah singkatan dari Fakultas Pertanian.\n$faculty USU  merupakan Fakultas ke-3 tertua diantara semua Fakultas di USU dan tertua dari Fakultas sejenis di Sumatera. Pada awalnya gedung Fakultas Pertanian USU berada di Jalan Seram 4 dan Jalan Jogja 30 (Kantor Gubernur Sumatera Utara sekarang) sejak tahun 1957 sampai dengan 1967. Sejak tahun 1967 sampai dengan 1974 menggunakan gedung bekas sekolah SMA Andalas di Jalan Cik Ditiro 8. Akhirnya sejak tahun 1974 hingga sekarang telah menempati kampus USU Jalan Prof. A. Sofyan."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

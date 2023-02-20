@@ -1,0 +1,30 @@
+[
+  {
+    "id": "08bbcb5c-da05-4e3c-9cd4-6d69c4676756",
+    "data": [
+      {
+        "text": "Vokasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5779aaee-68b5-442f-a3b1-26e2f0678505",
+    "data": [
+      {
+        "text": "Jalur Vokasi",
+        "meta": "@Jalur",
+        "alias": "jalur",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

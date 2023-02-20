@@ -1,0 +1,23 @@
+[
+  {
+    "value": "Selamat Pagi",
+    "synonyms": [
+      "Selamat Pagi",
+      "Pagi"
+    ]
+  },
+  {
+    "value": "Selamat Siang",
+    "synonyms": [
+      "Selamat Siang",
+      "Siang"
+    ]
+  },
+  {
+    "value": "Selamat  Malam",
+    "synonyms": [
+      "Selamat  Malam",
+      "Malam"
+    ]
+  }
+]

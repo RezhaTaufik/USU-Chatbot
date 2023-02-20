@@ -1,0 +1,103 @@
+[
+  {
+    "id": "6b556c60-4f72-4134-a3e7-d714e0034802",
+    "data": [
+      {
+        "text": "Apa kabar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0e008ed7-e3bf-423c-aeb8-afcb9752fb75",
+    "data": [
+      {
+        "text": "Halo ",
+        "userDefined": false
+      },
+      {
+        "text": "Teman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7690eff2-58ba-464e-ae53-646aec25c9fd",
+    "data": [
+      {
+        "text": "Hai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0101d2f0-83cb-43ed-aede-77e8b0c59d1a",
+    "data": [
+      {
+        "text": "Halo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f5d7e066-cb02-4767-bf7d-f8abe9b2fc6f",
+    "data": [
+      {
+        "text": "Selamat Malam",
+        "meta": "@Hari_dan_Waktu",
+        "alias": "hari_dan_waktu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dc4fc5e4-fd32-4a43-a1cd-19bb3be12cb6",
+    "data": [
+      {
+        "text": "Selamat Siang",
+        "meta": "@Hari_dan_Waktu",
+        "alias": "hari_dan_waktu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "29ad8b9d-1e3a-46fe-8ca8-d8a490e293f6",
+    "data": [
+      {
+        "text": "Selamat Pagi",
+        "meta": "@Hari_dan_Waktu",
+        "alias": "hari_dan_waktu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

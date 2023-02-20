@@ -1,0 +1,34 @@
+[
+  {
+    "value": "SNMPTN",
+    "synonyms": [
+      "SNMPTN",
+      "SNM"
+    ]
+  },
+  {
+    "value": "SBMPTN",
+    "synonyms": [
+      "SBMPTN",
+      "SBM"
+    ]
+  },
+  {
+    "value": "Ujian Mandiri",
+    "synonyms": [
+      "Ujian Mandiri"
+    ]
+  },
+  {
+    "value": "SMM PTN Barat",
+    "synonyms": [
+      "SMM PTN Barat"
+    ]
+  },
+  {
+    "value": "Jalur Vokasi",
+    "synonyms": [
+      "Jalur Vokasi"
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+{
+  "id": "abf3683f-6279-4450-8f55-7161b00020db",
+  "name": "Vokasi",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8b4e4a57-ebea-4f16-9ccd-aa3a30d981ec",
+          "name": "jalur",
+          "required": false,
+          "dataType": "@Jalur",
+          "value": "$jalur",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Program pendidikan vokasi adalah program pendidikan pada jenjang pendidikan tinggi yang bertujuan untuk mempersiapkan tenaga yang dapat menetapkan keahlian dan ketrampilan di bidangnya, siap kerja dan mampu bersaing secara global.\n\nSehingga, pendidikan vokasi lebih fokus pada kegiatan pembelajaran secara praktek atau praktek langsung di lapangan. Sebab bertujuan untuk mengasah dan mengembangkan sejumlah keterampilan mahasiswa sesuai program studi yang diambil. \n\nSebagai contoh, mahasiswa vokasi mengambil jurusan fotografi. Maka kegiatan pembelajaran dari awal lebih banyak turun ke lapangan langsung. Mulai dari belajar langsung cara memakai kamera, menentukan objek di sekitar, dan menentukan angle. \n\nLulusan pendidikan vokasi kemudian memiliki banyak sekali keterampilan. Sebab dalam pembelajaran melakukan dua unsur pembelajaran, yakni secara teori sekaligus praktek. Berbeda dengan sarjana di sejumlah universitas, dimana fokusnya adalah pada teori. \n\nMahasiswa di gelar Sarjana perlu mengikuti lebih banyak kegiatan seperti organisasi di kampus untuk mengasah berbagai keterampilan. Keterampilan yang diasah juga disesuaikan dengan minat dan tidak harus sesuai program studi yang diambil. \n\nSementara mahasiswa di vokasi adalah fokus kepada pengembangan keterampilan sehingga selama kuliah bisa sambil memperkaya keterampilan. Dimana keterampilan ini sangat berguna untuk meningkatkan daya saing di dunia kerja setelah lulus kuliah."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

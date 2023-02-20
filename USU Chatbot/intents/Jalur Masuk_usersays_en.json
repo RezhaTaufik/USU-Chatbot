@@ -1,0 +1,45 @@
+[
+  {
+    "id": "8d67e772-cb2b-4c53-8cee-23123670544b",
+    "data": [
+      {
+        "text": "Pendaftaran Mahasiswa baru",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "efb5dca6-fffc-4fe6-a929-53e22b021022",
+    "data": [
+      {
+        "text": "Pendaftaran ",
+        "userDefined": false
+      },
+      {
+        "text": "USU",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "862cccbc-c628-4d04-b492-ca43b4c51e52",
+    "data": [
+      {
+        "text": "Jalur Masuk USU",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,50 @@
+{
+  "id": "5a962123-52f2-40de-a13f-5a040a1aefeb",
+  "name": "FKG",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "669f975a-2143-4c71-94ed-d156233a7a7e",
+          "name": "faculty",
+          "required": false,
+          "dataType": "@Faculty",
+          "value": "$faculty",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "$faculty Adalah singkatan dari Fakultas Kedokteran Gigi. $faculty merupakan salah satu fakultas yang tidak kalah populernya dengan rekan dokternya yakni FK. $faculty merupakan salah satu fakultas tertua di USU. Didirikan pada tahun 1961. Prestasi yang ditorehkan oleh $faculty juga banyak, mulai dari skala nasional hingga internasional"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

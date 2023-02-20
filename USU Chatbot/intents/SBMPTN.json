@@ -1,0 +1,50 @@
+{
+  "id": "f369031d-492c-44de-84dd-08a82b20bcc7",
+  "name": "SBMPTN",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f626d3dd-51b5-4270-8ade-472dc2ea5413",
+          "name": "jalur",
+          "required": false,
+          "dataType": "@Jalur",
+          "value": "$jalur",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Seleksi Bersama Masuk Perguruan Tinggi Negeri atau disingkat SBMPTN merupakan seleksi bersama untuk penerimaan mahasiswa baru di lingkungan perguruan tinggi negeri menggunakan pola ujian tertulis secara nasional yang selama ini telah menunjukkan berbagai keuntungan dan keunggulan, baik bagi calon mahasiswa, perguruan tinggi negeri, maupun kepentingan nasional. Bagi calon mahasiswa, ujian tertulis sangat menguntungkan karena lebih efisien, murah, dan fleksibel karena adanya mekanisme lintas wilayah.\n\nUjian tertulis menggunakan soal ujian yang dikembangkan sedemikian rupa sehingga memenuhi persyaratan validitas, tingkat kesulitan, dan daya pembeda yang memadai. Soal ujian tertulis SBMPTN dirancang untuk mengukur kemampuan umum yang diduga menentukan keberhasilan calon mahasiswa di semua program studi, yakni kemampuan penalaran tingkat tinggi (higher order thinking), yang meliputi potensi akademik, penguasaan bidang studi dasar, bidang saintek dan/atau bidang sosial dan humaniora. Selain mengikuti ujian tertulis, peserta yang memilih program studi Ilmu seni dan/atau keolahragaan diwajibkan mengikuti ujian keterampilan"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

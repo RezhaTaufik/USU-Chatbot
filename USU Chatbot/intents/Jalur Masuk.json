@@ -1,0 +1,35 @@
+{
+  "id": "5452f6e0-ccd7-4cd5-bf0d-c89880c96882",
+  "name": "Jalur Masuk",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Universitas Sumatera Utara memiliki beberapa jalur masuk, diantaranya yaitu :\n\n- SNMPTN\n- SBMPTN\n- Ujian Mandiri\n- SMM PTN Barat\n- Jalur Vokasi\n\nUntuk info lebih lanjut silahkan input salah satu jalur masuk diatas!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

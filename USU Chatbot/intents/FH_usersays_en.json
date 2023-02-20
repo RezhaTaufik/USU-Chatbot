@@ -1,0 +1,17 @@
+[
+  {
+    "id": "c363a409-b0af-4dc2-a424-47cf12b96a79",
+    "data": [
+      {
+        "text": "FH",
+        "meta": "@Faculty",
+        "alias": "faculty",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

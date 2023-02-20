@@ -1,0 +1,36 @@
+{
+  "id": "1bf38072-f401-493d-9e57-2c1a726fcc4f",
+  "name": "Sejarah USU",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Universitas Sumatera Utara (disingkat USU) adalah salah satu universitas negeri yang terletak di Medan, Sumatera Utara, Indonesia. USU awalnya berdiri dengan nama Yayasan Universitet Sumatra Utara pada 4 Juni 1952. Fakultas pertamanya adalah Fakultas Kedokteran yang didirikan pada tanggal 20 Agustus 1952. Presiden Soekarno meresmikan USU sebagai Universitas Negeri ke-7 di Indonesia pada 20 November 1957. Pada tahun 2018, USU berganti status perguruan tinggi menjadi Perguruan Tinggi Negeri Badan Hukum (PTN-BH) dan menjadi universitas PTN-BH ke-7 di Indonesia.",
+            "Universitas Sumatera Utara (USU) sebelumnya berdiri sebagai Yayasan Universitas Sumatera Utara pada 4 Juni 1952. Yayasan ini didirikan oleh Abdul Hakim Harahap, yang merupakan Gubernur Sumatra Utara pada saat itu. Keinginan untuk membangun universitas di Medan sudah ada sebelum Perang Dunia II dimulai, tetapi tidak disetujui oleh Pemerintah Belanda. Pada zaman pendudukan Jepang, orang terkemuka di Medan seperti Pirngadi dan T. Mansoer membuat rancangan untuk perguruan tinggi kedokteran. Setelah kemerdekaan Indonesia, pemerintah mengangkat Mohammad Djamil sebagai ketua panitia rencana pembangunan universitas. Konflik Revolusi Nasional Indonesia pada 1945 hingga 1949 membuat pembangunan tertunda. Abdul Hakim lalu berinisiatif meminta kepada rakyat Sumatera Utara mengumpulkan dana sosial untuk pendirian universitas.\n\nPada 31 Desember 1951, dibentuk panitia persiapan pendirian perguruan tinggi yang diketuai oleh Soemarsono yang beranggotakan Dr. Ahmad Sofian, Ir. Danunagoro, dan sekretaris Mr. Djaidin Purba. Selain Dewan Pimpinan Yayasan, Organisasi USU pada awal berdirinya terdiri dari Dewan Kurator, Presiden Universitas, Majelis Presiden, Asesor, Senat Universitas, dan Dewan Fakultas.\n\nPada 20 Agustus 1952, setelah hasil kerja sama dan bantuan moral dan material dari masyarakat Sumatra Utara yang saat itu masih meliputi Provinsi Aceh, Fakultas Kedokteran didirikan dengan 27 orang sebagai mahasiswa. Kemudian disusul dengan berdirinya Fakultas Hukum dan Pengetahuan Masyarakat (1954), Fakultas Keguruan dan llmu Pendidikan (1956), Fakultas Pertanian (1956), dan Fakultas Kedokteran Gigi USU pada 19 Oktober 1961.\n\nPada 20 November 1957, USU diresmikan oleh Soekarno sebagai universitas negeri ke-7 di Indonesia. Tanggal peresmian ini kemudian ditetapkan sebagai Dies Natalis USU yang diperingati setiap tahun hingga 2001. Atas usul beberapa anggota senat universitas, hari jadi USU ditinjau kembali. senat akhirnya memutuskan bahwa hari jadi USU ditetapkan pada 20 Agustus 1952, yaitu pada saat perkuliahan pertama kali dimulai. Dengan persetujuan Departemen Pendidikan Nasional, tahun 2002 di peringati sebagai Dies Natalis USU yang ke-50.\n\nPada 1959, Fakultas Teknik di Medan dan Fakultas Ekonomi di Banda Aceh diresmikan oleh Soekarno. Kemudian pada 1960 di kota yang sama didirikan Fakultas Kedokteran dan Peternakan. Saat itu, USU terdiri atas tujuh fakultas yaitu lima fakultas di Medan dan dua fakultas di Banda Aceh. Dalam perjalanan usianya, berbagai program pengembangan yang dilaksanakan telah banyak membawa kemajuan yang telah dicapai sehingga menjadikan USU berkembang hingga seperti sekarang.\n\nSaat ini, USU mengelola lebih dari seratus program studi yang terdiri dari berbagai jenjang pendidikan tinggi, yang tercakup dalam 10 fakultas dan satu program pascasarjana. Dalam perkembangannya, beberapa fakultas USU berubah menjadi perguruan tinggi negeri sendiri, yaitu Universitas Syiah Kuala di Banda Aceh (dari Fakultas Ekonomi dan Fakultas Kedokteran Hewan dan Peternakan), IKIP Negeri Medan yang sekarang berubah menjadi Universitas Negeri Medan (dari Fakultas Keguruan dan Ilmu Pendidikan), dan Politeknik Negeri Medan (dari Politeknik USU)."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

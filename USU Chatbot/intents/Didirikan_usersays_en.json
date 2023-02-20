@@ -1,0 +1,54 @@
+[
+  {
+    "id": "25b21a91-603a-4994-861a-2e8682c48d76",
+    "data": [
+      {
+        "text": "Berdiri",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0d06e188-f00d-4fe0-8ba8-7e7acbe54e0d",
+    "data": [
+      {
+        "text": "Didirikan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8934b938-2e58-4f47-ad4c-67428cb1ed20",
+    "data": [
+      {
+        "text": "Kapan USU diresmikan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "065b0da3-bb2c-4f5a-930e-efd5625ab8f2",
+    "data": [
+      {
+        "text": "Kapan USU berdiri",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
